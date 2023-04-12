@@ -1,0 +1,27 @@
+
+
+.container{
+    
+    border:2px solid red;
+    width:100%;
+    height:100%;
+    display:block;
+
+}
+.bowl{
+    border:2px solid red;
+    width:100;
+    height:100;
+    display:inline;
+
+}
+.div1{
+    border:2px solid blueviolet;
+    width:100;
+    height:100;
+    display:inline-block;
+margin-left: 1200px;
+margin-bottom: 20px;
+}
+
+
